@@ -8,9 +8,8 @@
 ---
 
 ### Connect with me!
-![gitlab](https://gitlab.com/taywayne)
-[![linked in](hi)](https://www.linkedin.com/in/taywayne/)
-[![linked in](po.png)](https://taywayne.dev/)
+- [LinkedIn](https://www.linkedin.com/in/taywayne/)
+- [Portfolio](https://taywayne.dev/)
 
 ---
 
