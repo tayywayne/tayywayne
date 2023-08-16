@@ -45,4 +45,4 @@
 
 ✦ [Martin Time Shop](https://github.com/tayywayne/martin-time) - Custom ecommerce website with users, admin pannel, checkout, and more.
 
-✦ [Mockerview](https://github.com/tayywayne/martin-time](https://github.com/tayywayne/mocker) - And AI powered mock interview site to practice behavial questions from top companies and get instant feedback.
+✦ [Mockerview](https://github.com/tayywayne/mocker) - And AI powered mock interview site to practice behavial questions from top companies and get instant feedback.
