@@ -9,6 +9,7 @@
 ### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/taywayne/)
 - [Portfolio](https://taywayne.dev/)
+- [Gitlab](https://gitlab.com/taywaydev)
 
 ---
 
