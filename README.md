@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+I'm+Taylor!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=86796F&width=435&lines=Hi+there!+I'm+Taylor!)](https://git.io/typing-svg)
 
 
 -  I am a student studying software engineering!
@@ -14,21 +14,8 @@
 
 ### Languages and tech I work with
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-212121?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/-Python-212121?style=flat-square&logo=python&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/-HTML-212121?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-212121?style=flat-square&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-212121?style=flat-square&logo=Bootstrap&logoColor=7952B3)
-![Tailwind](https://img.shields.io/badge/-Tailwind-212121?style=flat-square&logo=Tailwindcss&logoColor=06B6D4)
-![Django](https://img.shields.io/badge/-Django-212121?style=flat-square&logo=Django&logoColor=092E20)
-![MongoDB](https://img.shields.io/badge/-MongoDB-212121?style=flat-square&logo=MongoDB&logoColor=47A248)
-![TypeScript](https://img.shields.io/badge/-TypeScript-212121?style=flat-square&logo=typescript&logoColor=3178C6)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-212121?style=flat-square&logo=RabbitMQ&logoColor=FF6600)
-![SQL](https://img.shields.io/badge/-SQL-212121?style=flat-square&logo=postgresql&logoColor=4169E1)
-![React](https://img.shields.io/badge/-React-212121?style=flat-square&logo=React&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/-Redux-212121?style=flat-square&logo=Redux&logoColor=764ABC)
-![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-212121?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/-Docker-212121?style=flat-square&logo=docker)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat-square&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 ---
 
