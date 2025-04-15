@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk+light&size=26&pause=1000&color=86796F&width=435&lines=Hi%2C+I%E2%80%99m+Taylor.)](https://git.io/typing-svg)
 
 
--  I am a student studying software engineering!
--  I am currently working on advancing my Javascript skills!
+-  I am a student studying software engineering
+-  I am currently working on advancing my Javascript skills
 
 ---
 
