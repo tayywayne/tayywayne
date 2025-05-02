@@ -2,7 +2,7 @@
 
 
 -  I am a student studying software engineering!
--  I am currently working on advancing my Javascript skills!
+-  I am currently learning Java!
 
 ---
 
