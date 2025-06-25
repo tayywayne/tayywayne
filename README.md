@@ -20,6 +20,4 @@
 ---
 Check out my [Paldean Wooper theme for VS Code](https://marketplace.visualstudio.com/items?itemName=TaylorWayne.paldean-wooper-theme)!
 
-![wooper](/wooper-pokemon.gif)
-
 
