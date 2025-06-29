@@ -19,4 +19,5 @@
 
 ---
 Check out my [Paldean Wooper theme for VS Code](https://marketplace.visualstudio.com/items?itemName=TaylorWayne.paldean-wooper-theme)
-[![Charmander - Lv.5 charmander](https://jhxvfciofzerwfkmvxee.supabase.co/storage/v1/object/public/pokemon/charmander-1.gif)](https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--cb7c0bca.local-credentialless.webcontainer-api.io/pokemon/0de8456e-8ea5-4dd4-8c9a-3c2f8252c00b)
+
+[![Charmander](https://jhxvfciofzerwfkmvxee.supabase.co/storage/v1/object/public/pokemon/charmander-1.gif)](https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--cb7c0bca.local-credentialless.webcontainer-api.io/pokemon/888d30a2-89ae-411b-aa62-8e0bd9fc94d0)
