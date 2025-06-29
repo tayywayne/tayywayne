@@ -19,5 +19,6 @@
 
 ---
 Check out my [Paldean Wooper theme for VS Code](https://marketplace.visualstudio.com/items?itemName=TaylorWayne.paldean-wooper-theme)!
+[![Charmander](https://jhxvfciofzerwfkmvxee.supabase.co/storage/v1/object/public/pokemon/charmander-1-shiny.gif)](https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--cb7c0bca.local-credentialless.webcontainer-api.io/pokemon/29044249-020b-4669-b721-8270b8555437)
 
 
