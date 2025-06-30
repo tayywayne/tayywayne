@@ -1,23 +1,34 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk+light&size=26&pause=1000&color=86796F&width=435&lines=Hi%2C+I%E2%80%99m+Taylor.)](https://git.io/typing-svg)
+![Header](https://readmehero.netlify.app/banners/forgotten-city.png)
+
+# 🏛️ Hi there, I'm Taylor!
+
+## 📜 About Me
+
+I'm Taylor, a software engineer driven by creativity and problem-solving. From my early days exploring Geocities, I was hooked on the art of creating online.
+
+## 🗝️ Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2F4F2F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taywayne/) [![Portfolio](https://img.shields.io/badge/Portfolio-2F4F2F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://taywayne.dev/)
+
+## ⚔️ Technologies & Tools
+
+![HTML](https://img.shields.io/badge/HTML-2F4F2F.svg?style=for-the-badge&logo=html&logoColor=white) ![Java](https://img.shields.io/badge/Java-2F4F2F.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-2F4F2F.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-2F4F2F.svg?style=for-the-badge&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-2F4F2F.svg?style=for-the-badge&logo=aws&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-2F4F2F.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/Django-2F4F2F.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-2F4F2F.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-2F4F2F.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-2F4F2F.svg?style=for-the-badge&logo=react&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-2F4F2F.svg?style=for-the-badge&logo=reactnative&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2F4F2F.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-2F4F2F.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-2F4F2F.svg?style=for-the-badge&logo=postman&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2F4F2F.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-2F4F2F.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## 📚 Education
+
+BS in Software Enginearing (grad dec 2025)
+
+## 🏰 Featured Projects
+
+### [Vowen - A tale of two friends](https://github.com/tayywayne/vowen)
+A gamified, co-op communication journey for friends—designed to help you connect, reflect, grow, and have fun along the way.
+Django + Django REST Framework + React native + PostgreSQL
+
+### [QuiltBlocker](https://github.com/tayywayne/QuiltBlocker)
+A dynamic, React-based web application that lets you design custom quilt blocks and visualize full quilts in real time!
+
+## 🎯 Goals
+
+My 2025 goal is finishing my degree in software engineering! I am also moving into mobile development and hope to launch my first app this year!
 
 
--  I am a student studying software engineering!
--  I am currently learning Java!
-
----
-
-### Connect with me
-- [LinkedIn](https://www.linkedin.com/in/taywayne/)
-- [Portfolio](https://taywayne.dev/)
-
----
-
-### Languages and tech i work with
-
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&color=86796F) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white&color=86796F) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=white&color=86796F) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white&color=86796F) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white&color=86796F) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white&color=86796F) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white&color=86796F) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white&color=86796F) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat-square&logo=daisyui&logoColor=white&color=86796F) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white&color=86796F) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white&color=86796F) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white&color=86796F) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white&color=86796F) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=white&color=86796F) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white&color=86796F) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white&color=86796F) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white&color=86796F) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white&color=86796F) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white&color=86796F) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white&color=86796F) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white&color=86796F)
-
----
-Check out my [Paldean Wooper theme for VS Code](https://marketplace.visualstudio.com/items?itemName=TaylorWayne.paldean-wooper-theme)
-
-[![Bulbasaur](https://jhxvfciofzerwfkmvxee.supabase.co/storage/v1/object/public/pokemon/bulbasaur-1.gif)](https://gitmon.netlify.app/pokemon/0cd8bc22-d39c-4c59-96dd-4e1441591dad)
